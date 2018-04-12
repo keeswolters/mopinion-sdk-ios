@@ -1,6 +1,12 @@
 # mopinion-sdk-ios
 Mopinion Mobile SDK iOS
 
+This mobile solution for iOS provides you with an easy way of gathering feedback within your native Android application. This Mopinion SDK for iOS offers various customisation options and a wide range of targeting features based on in-app user behaviour.
+
+For a more generic overview of the SDK possibilities please visit: 
+https://mopinion.com/mopinion-releases-new-mobile-sdk-in-app-feedback/
+
+
 ## Install
 
 ### Cocoapods
